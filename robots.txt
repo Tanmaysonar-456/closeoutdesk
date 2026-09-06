@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanmaysonar-456.github.io/closeoutdesk/sitemap.xml
